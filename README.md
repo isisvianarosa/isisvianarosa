@@ -1,4 +1,4 @@
-## Olá! Eu sou Isis
+## Olá! Eu sou Jo!
 
 - 🌱 Atualmente estudando Front-end
 
